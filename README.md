@@ -25,3 +25,15 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+I have not added the node_modules as that was a very big file.
+
+## Metamask
+
+Metamask is a ethereum wallet. That is used in this project and you have to install the metamask and connect to ganache for the development of this project.\
+
+## Ganache
+
+Ganache provides some ethereum accounts with some ethereum values that will be connected to the metamask account. 
+
+## Web3js
+Web3js basicaly works as an intermediate between our frontend(Angular) and Backend (Metamask).
